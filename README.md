@@ -6,3 +6,5 @@ Codility Golden Award for the Palladium 2020 Challenge: https://app.codility.com
 Codility Golden Award for the Molybdenum 2019 Challenge: https://app.codility.com/cert/view/certJHQCPH-S8RW7KZ3PR8P9PRV/
 
 Codility Golden Award for the Technetium 2019 Challenge: https://app.codility.com/cert/view/certC2RQC6-4NAFECT7CPKWYKW4/
+
+Codility Golden Award for the Pi Code Challenge Challenge: https://app.codility.com/cert/view/cert7NTYYU-S55EZMXXJ4F4ST6N/
